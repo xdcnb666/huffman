@@ -1,0 +1,5 @@
+C:/Users/Lenovo/Desktop/qthuffman/huffman/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/HuffmanGUI.dir
+C:/Users/Lenovo/Desktop/qthuffman/huffman/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/qthuffman/huffman/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lenovo/Desktop/qthuffman/huffman/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/HuffmanGUI_autogen_timestamp_deps.dir
+C:/Users/Lenovo/Desktop/qthuffman/huffman/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/HuffmanGUI_autogen.dir
